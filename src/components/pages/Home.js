@@ -306,7 +306,7 @@ const Home = () => {
                 </div>
               </section>
             </div>
-            <div className="space60" id="portfolio" />
+            <div className="space60" />
 
             <div className="collage-container">
               <img className="collage" src="style/images/collage.jpeg" />
