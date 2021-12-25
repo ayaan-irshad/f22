@@ -2,6 +2,11 @@
 /.pnp
 .pnp.js
 
+/package-log.json
+/build
+
+
+
 # testing
 /coverage
 
