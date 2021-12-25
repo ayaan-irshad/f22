@@ -164,7 +164,7 @@ const Insta_gal = () => {
           <div className='wrapper light-wrapper'>
             <div className='container inner pt-70'>
             <h1>
-            <a href='https://www.instagram.com/junoon.nsut/' target="_blank">
+            <a href='https://www.instagram.com/f22_photography_club/' target="_blank">
                   <i className='fa fa-instagram' style={{"font-size":"45px", color:"#333"}} />
               </a>
                 
@@ -375,14 +375,14 @@ const Insta_gal = () => {
                   <ul className='social social-mute social-s mt-10'>
 
                     <li>
-                      <a href='https://www.facebook.com/junoon.nsut/' target="_blank">
+                      <a href='https://www.facebook.com/f22photographyclub/' target="_blank">
                         <i className='fa fa-facebook-f' />
                       </a>
                     </li>
                     
                    
                     <li>
-                      <a href='https://www.instagram.com/junoon.nsut/' target="_blank">
+                      <a href='https://www.instagram.com/f22_photography_club/' target="_blank">
                         <i className='fa fa-instagram' />
                       </a>
                     </li>
@@ -485,7 +485,7 @@ const Insta_gal = () => {
           <div className='wrapper light-wrapper'>
             <div className='container inner pt-70'>
               <h1>
-            <a href='https://www.instagram.com/junoon.nsut/' target="_blank">
+            <a href='https://www.instagram.com/f22_photography_club/' target="_blank">
                   <i className='fa fa-instagram' style={{"font-size":"45px", color:"#333"}} />
               </a>
                 
@@ -696,14 +696,14 @@ const Insta_gal = () => {
                   <ul className='social social-mute social-s mt-10'>
 
                     <li>
-                      <a href='https://www.facebook.com/junoon.nsut/' target="_blank">
+                      <a href='https://www.facebook.com/f22photographyclub/' target="_blank">
                         <i className='fa fa-facebook-f' />
                       </a>
                     </li>
                     
                    
                     <li>
-                      <a href='https://www.instagram.com/junoon.nsut/' target="_blank">
+                      <a href='https://www.instagram.com/f22_photography_club/' target="_blank">
                         <i className='fa fa-instagram' />
                       </a>
                     </li>

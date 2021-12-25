@@ -69,7 +69,7 @@ const Contact_us = () => {
                     
                     {/*/.dropdown-menu */}
                   </li>
-                  <li className='nav-item dropdown'>
+                  {/* <li className='nav-item dropdown'>
                     <a className='nav-link dropdown-toggle' href='/insta'>
                       Instagram
                     </a>
@@ -80,7 +80,7 @@ const Contact_us = () => {
                       Collections
                     </a>
                     
-                  </li>
+                  </li> */}
                   <li className='nav-item dropdown'>
                     <a className='nav-link dropdown-toggle' href='/about'>
                       About
@@ -107,7 +107,7 @@ const Contact_us = () => {
                 <h2 className='section-title text-center'>Get in Touch</h2>
                 <p className='text-center'>
                  Let's make something amazing together.
-                 Contact us for new creative ideas, collaborations, photowalks and to get to know more about Junoon . 
+                 Contact us for new creative ideas, collaborations, photowalks and to get to know more about f22 Photography Club . 
                 </p>
                 <br></br>
                 <div className='space20' />
@@ -115,11 +115,11 @@ const Contact_us = () => {
                   <div className='col-md-4'>
                     {" "}
                     <span className='icon icon-color color-default fs-48 mb-10'>          
-                      <a href="https://www.facebook.com/junoon.nsut/" target="_blank"><i className='fa fa-facebook-f' /></a>
+                      <a href="https://www.facebook.com/f22photographyclub/" target="_blank"><i className='fa fa-facebook-f' /></a>
                     </span>
                     <p>
-                    <a className='nocolor' href='https://www.facebook.com/junoon.nsut/' target="_blank">
-                    Junoon The Photography <br></br>club of NSUT
+                    <a className='nocolor' href='https://www.facebook.com/f22photographyclub/' target="_blank">
+                    f22 <br></br>Photography Club
                       </a>
                       
                     </p>
@@ -128,11 +128,11 @@ const Contact_us = () => {
                   <div className='col-md-4'>
                     {" "}
                     <span className='icon icon-color color-default fs-48 mb-10'>
-                      <a href="https://www.instagram.com/junoon.nsut/" target="_blank"><i className='fa fa-instagram' /></a>
+                      <a href="https://www.instagram.com/f22_photography_club/" target="_blank"><i className='fa fa-instagram' /></a>
                     </span>
                     <p>
-                    <a className='nocolor' href='https://www.instagram.com/junoon.nsut' target="_blank">
-                      junoon.nsut
+                    <a className='nocolor' href='https://www.instagram.com/f22_photography_club' target="_blank">
+                      f22
                       </a>
                     </p>
                   </div>
@@ -140,11 +140,11 @@ const Contact_us = () => {
                   <div className='col-md-4'>
                     {" "}
                     <span className='icon icon-color color-default fs-48 mb-10'>
-                    <a href="mailto: nsit.junoon@gmail.com" target="_blank"><i className='fa fa-envelope-o' /></a>
+                    <a href="mailto: f22photographyclub@gmail.com" target="_blank"><i className='fa fa-envelope-o' /></a>
                     </span>
                     <p>
-                      <a className='nocolor' href='mailto: nsit.junoon@gmail.com' target="_blank">
-                      nsit.junoon@gmail.com
+                      <a className='nocolor' href='mailto: f22photographyclub@gmail.com' target="_blank">
+                      f22photographyclub@gmail.com
                       </a>                      
                     </p>
                   </div>
