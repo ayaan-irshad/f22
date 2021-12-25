@@ -736,6 +736,7 @@ acronym[title] {
 .navbar.transparent:not(.wrapper) {
   /* background: none !important; */
 }
+
 .navbar.fixed.transparent.transparent-light {
   background: #fff !important;
 }
