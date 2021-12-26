@@ -129,7 +129,9 @@ const About = () => {
                     </figure>
                     <h4 className="mb-5">f22</h4>
                     <div className="meta mb-10"></div>
-                    <p>Kashmir Based Photography Club</p>
+                    <p style={{ textAlign: "center" }}>
+                      Kashmir Based Photography Club
+                    </p>
                     <ul className="social social-mute">
                       <li>
                         <a

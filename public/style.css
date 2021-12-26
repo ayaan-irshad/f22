@@ -573,6 +573,10 @@ figure.main.rounded img,
     align-items: center;
   }
 }
+
+.picofthe {
+  justify-content: center;
+}
 hr {
   border: 0;
   padding: 0;

@@ -266,10 +266,13 @@ const Home = () => {
               <div className="space30 d-block d-lg-none d-xl-none" />
               <div className="col-lg-6">
                 <p className="lead">
-                  f22 was started as coming together of mentors and learners
-                  with zeal to create, collaborate and grow together in
-                  photographic adventures. A golden chance for all those who
-                  have the desire and passion to work and learn with us
+                  “f22 was started as coming together of Mentors and Learners
+                  with Zeal to Create, Collaborate and Grow together in
+                  Photographic Adventures.A Golden chance for all those who have
+                  the desire and passion to work and learn with those who have
+                  already proved their mettle in the Field. Our Primary Mentor
+                  Vikar Syed has shaped so many youth who came with passion and
+                  returned with Craft.”
                 </p>
               </div>
               {/* /column */}
@@ -310,10 +313,10 @@ const Home = () => {
               <img className="collage" src="style/images/collage.jpeg" />
               <div className="col-lg-6">
                 <p className="lead">
-                  f22 presents an oppurtunity for you to learn and apply skills
+                  "f22 presents an oppurtunity for you to learn and apply skills
                   taught by our renowned mentors in 2022. This workshop will
                   span 22 Sundays in the year. You can register by clicking on
-                  the button below.
+                  the button below."
                 </p>
                 <a
                   className=" btn btn-l btn-white scroll"
@@ -324,6 +327,26 @@ const Home = () => {
                 </a>
               </div>
             </div>
+            <div className="space60" />
+
+            <h2 className="section-title mb-30 text-center">Pic Of The Week</h2>
+            <div className="picofthe items row boxed grid-view text-center">
+              <div className="item col-md-6 col-lg-4">
+                <div className="box bg-inverse p-30">
+                  <figure className="main mb-20 overlay overlay1 rounded">
+                    <img src="style/images/pic.jpg" alt="" />
+                    <figcaption>
+                      <h5 className="text-uppercase from-top mb-0">
+                        "INTO THE MOUNTAINS" <br></br>
+                        <div className="space10" />
+                        by Umar Farooq
+                      </h5>
+                    </figcaption>
+                  </figure>
+                </div>
+              </div>
+            </div>
+
             <div className="space60" id="portfolio" />
             <h2 className="section-title mb-30 text-center">Our Craft</h2>
             <div className="tiles">
@@ -334,9 +357,9 @@ const Home = () => {
                       <img src="style/images/h1.jpg" alt="" />
                       <figcaption>
                         <h5 className="text-uppercase from-top mb-0">
-                          "Into the Mountains" <br></br>
+                          "Pangong, a story!" <br></br>
                           <div className="space10" />
-                          by umar farooq
+                          by Abrar Farooq
                         </h5>
                       </figcaption>
                     </figure>
@@ -434,7 +457,12 @@ const Home = () => {
                     <figure className="main mb-20 overlay overlay1 rounded">
                       <img src="style/images/h7.jpg" alt="" />
                       <figcaption>
-                        <h5 className="text-uppercase from-top mb-0"></h5>
+                        <h5 className="text-uppercase from-top mb-0">
+                          "I like this place and could waste my time there."
+                          <br></br>
+                          <div className="space10" />
+                          by Basit
+                        </h5>
                       </figcaption>
                     </figure>
                   </div>
@@ -446,7 +474,10 @@ const Home = () => {
                     <figure className="main mb-20 overlay overlay1 rounded">
                       <img src="style/images/h8.jpg" alt="" />
                       <figcaption>
-                        <h5 className="text-uppercase from-top mb-0"></h5>
+                        <h5 className="text-uppercase from-top mb-0">
+                          "Nomads" <br></br>
+                          <div className="space10" /> by Wani Hanan
+                        </h5>
                       </figcaption>
                     </figure>
                   </div>
@@ -458,7 +489,9 @@ const Home = () => {
                     <figure className="main mb-20 overlay overlay1 rounded">
                       <img src="style/images/h9.jpg" alt="" />
                       <figcaption>
-                        <h5 className="text-uppercase from-top mb-0"></h5>
+                        <h5 className="text-uppercase from-top mb-0">
+                          "Old Age" <br></br> by Mohammad Shahid
+                        </h5>
                       </figcaption>
                     </figure>
                   </div>
@@ -470,106 +503,7 @@ const Home = () => {
             </div>
             {/*/.tiles */}
             <div className="space150" />
-            <h2 className="section-title mb-30 text-center">
-              Best of Our Stories
-            </h2>
-            <div className="blog grid grid-view boxed">
-              <div className="row isotope">
-                <div className="item post grid-sizer col-md-6 mb-0">
-                  <div className="box bg-inverse">
-                    <figure className="main mb-30 overlay overlay1 rounded">
-                      <a
-                        href="https://www.facebook.com/f22photographyclub"
-                        target="_blank"
-                      >
-                        {" "}
-                        <img src="style/images/story3.jpg" alt="" />
-                      </a>
-                      <figcaption>
-                        <h5 className="text-uppercase from-top mb-0">
-                          Story 1
-                        </h5>
-                      </figcaption>
-                    </figure>
 
-                    <h2 className="post-title">
-                      <a
-                        href="https://www.facebook.com/f22photographyclub"
-                        target="_blank"
-                      >
-                        Story 1
-                      </a>
-                    </h2>
-                    <div className="post-content">
-                      <p>
-                        Lorem ipsum dolor sit amet, consectetur adipiscing elit.
-                        Pellentesque pulvinar id magna sed varius. Cras rhoncus
-                        orci vitae efficitur hendrerit. Praesent fermentum ante
-                        sit amet est mollis ornare. Fusce quis ullamcorper Sed
-                        venenatis turpis non risus vestibulum.
-                      </p>
-                    </div>
-                    {/* /.post-content */}
-                    <hr />
-                    <div className="meta meta-footer d-flex justify-content-between mb-0">
-                      <span className="date">5 Jul 2018</span>
-                      <span className="comments">
-                        <a>12</a>
-                      </span>
-                    </div>
-                  </div>
-                  {/* /.box */}
-                </div>
-                {/* /.post */}
-                <div className="item post grid-sizer col-md-6 mb-0">
-                  <div className="box bg-inverse">
-                    <figure className="main mb-30 overlay overlay1 rounded">
-                      <a
-                        href="https://www.facebook.com/f22photographyclub"
-                        target="_blank"
-                      >
-                        {" "}
-                        <img src="style/images/story1.jpg" alt="" />
-                      </a>
-                      <figcaption>
-                        <h5 className="text-uppercase from-top mb-0">
-                          Story 2
-                        </h5>
-                      </figcaption>
-                    </figure>
-
-                    <h2 className="post-title">
-                      <a
-                        href="https://www.facebook.com/f22photographyclub"
-                        target="_blank"
-                      >
-                        Story 2
-                      </a>
-                    </h2>
-                    <div className="post-content">
-                      <p>
-                        Fusce quis ullamcorper Sed venenatis turpis non risus
-                        vestibulum, ulla ut tortor non justo luctus rhoncus.
-                        Aliquam sed neque non eros porta maximus at et lorem. In
-                        ultricies tempus magna, et varius quam lacinia ac.Nulla
-                        vulputate elit non placerat elementum.
-                      </p>
-                    </div>
-                    {/* /.post-content */}
-                    <hr />
-                    <div className="meta meta-footer d-flex justify-content-between mb-0">
-                      <span className="date">18 Jun 2018</span>
-                      <span className="comments">
-                        <a>15</a>
-                      </span>
-                    </div>
-                  </div>
-                  {/* /.box */}
-                </div>
-                {/* /.post */}
-              </div>
-              {/* /.row */}
-            </div>
             {/* /.blog */}
           </div>
           {/* /.container */}
