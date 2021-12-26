@@ -740,6 +740,9 @@ acronym[title] {
 .navbar.fixed.transparent.transparent-light {
   background: #fff !important;
 }
+.navbar-header {
+  background-color: black;
+}
 .navbar.center .navbar-header {
   padding-top: 40px;
   padding-bottom: 40px;
