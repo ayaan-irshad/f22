@@ -56,9 +56,9 @@ const Home = () => {
             }, step);
         }
         if (isElementInViewport(document.getElementById("count1"))) {
-          counter("count1", 0, 124, 1000);
-          counter("count2", 0, 45, 1000);
-          counter("count3", 0, 57, 1000);
+          counter("count1", 0, 80, 1000);
+          counter("count2", 0, 5, 1000);
+          counter("count3", 0, 4, 1000);
         } else {
           counter("count1", 0, 1, 1);
           counter("count2", 0, 1, 1);
@@ -79,16 +79,16 @@ const Home = () => {
         <nav className="navbar wide transparent absolute inverse-text navbar-expand-lg">
           <div className="container-fluid flex-row justify-content-center">
             <div className="navbar-header">
-              <div className="navbar-brand">
-                <a href="/">
+              <a href="/">
+                <div className="navbar-brand">
                   <img
                     src="#"
                     srcSet="style/images/junoon-white.png 1x, style/images/junoon-white.png 4x"
                     alt=""
                   />
-                </a>
-                <div className="logoText">f22 PHOTOGRAPHY CLUB</div>
-              </div>
+                  <div className="logoText">f22 PHOTOGRAPHY CLUB</div>
+                </div>
+              </a>
               <div className="navbar-hamburger ml-auto d-lg-none d-xl-none">
                 <button
                   className="hamburger animate"
@@ -321,7 +321,7 @@ const Home = () => {
                 <a
                   className=" btn btn-l btn-white scroll"
                   style={{ zIndex: 9 }}
-                  href=""
+                  href="mailto: f22photographyclub@gmail.com"
                 >
                   Register
                 </a>

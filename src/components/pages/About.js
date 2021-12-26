@@ -62,15 +62,17 @@ const About = () => {
           <nav className="navbar center navbar-expand-lg">
             <div className="container flex-lg-column">
               <div className="navbar-header">
-                <div className="navbar-brand">
-                  <img
-                    intrinsicsize="1268x512"
-                    src="#"
-                    srcSet="style/images/junoon-black.png 1x, style/images/junoon-black.png 3x"
-                    alt=""
-                  />
-                  <div className="logoText">f22 PHOTOGRAPHY CLUB</div>
-                </div>
+                <a href="/">
+                  <div className="navbar-brand">
+                    <img
+                      intrinsicsize="1268x512"
+                      src="#"
+                      srcSet="style/images/junoon-black.png 1x, style/images/junoon-black.png 3x"
+                      alt=""
+                    />
+                    <div className="logoText">f22 PHOTOGRAPHY CLUB</div>
+                  </div>
+                </a>
                 <div className="navbar-hamburger ml-auto d-lg-none d-xl-none">
                   <button
                     className="hamburger animate"
@@ -155,6 +157,23 @@ const About = () => {
                       </div>
                       <p>
                         Lead Video Producer <br></br>at Free Press Kashmir
+                      </p>
+                    </div>
+                  </div>
+                  <div className="space100" />
+                  <div className="rowCard">
+                    <div className="photo">
+                      <img className="img1" src="style/images/shuja.jpg" />
+                    </div>
+                    <div className="content">
+                      <div>
+                        <h3 style={{ textAlign: "left" }}>
+                          Shuja Sultan,<br></br> Senior Member
+                        </h3>
+                      </div>
+                      <p>
+                        Veteren Journalist<br></br> from Pulwama. <br></br>A
+                        handy guy when it<br></br> comes to adventures.
                       </p>
                     </div>
                   </div>

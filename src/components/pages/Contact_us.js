@@ -39,15 +39,17 @@ const Contact_us = () => {
         <nav className="navbar center navbar-expand-lg">
           <div className="container flex-lg-column">
             <div className="navbar-header">
-              <div className="navbar-brand">
-                <img
-                  intrinsicsize="1268x512"
-                  src="#"
-                  srcSet="style/images/junoon-black.png 1x, style/images/junoon-black.png 3x"
-                  alt=""
-                />
-                <div className="logoText">f22 PHOTOGRAPHY CLUB</div>
-              </div>
+              <a href="/">
+                <div className="navbar-brand">
+                  <img
+                    intrinsicsize="1268x512"
+                    src="#"
+                    srcSet="style/images/junoon-black.png 1x, style/images/junoon-black.png 3x"
+                    alt=""
+                  />
+                  <div className="logoText">f22 PHOTOGRAPHY CLUB</div>
+                </div>
+              </a>
               <div className="navbar-hamburger ml-auto d-lg-none d-xl-none">
                 <button
                   className="hamburger animate"
@@ -107,7 +109,7 @@ const Contact_us = () => {
                 <br></br>
                 <div className="space20" />
                 <div className="row text-center">
-                  <div className="col-md-4">
+                  <div className="col-md-4 center-social">
                     {" "}
                     <span className="icon icon-color color-default fs-48 mb-10">
                       <a
@@ -117,7 +119,7 @@ const Contact_us = () => {
                         <i className="fa fa-facebook-f" />
                       </a>
                     </span>
-                    <p>
+                    <p className="fsocial-center">
                       <a
                         className="nocolor"
                         href="https://www.facebook.com/f22photographyclub/"
@@ -128,7 +130,7 @@ const Contact_us = () => {
                     </p>
                   </div>
                   {/*/column */}
-                  <div className="col-md-4">
+                  <div className="col-md-4 center-social">
                     {" "}
                     <span className="icon icon-color color-default fs-48 mb-10">
                       <a
@@ -149,7 +151,7 @@ const Contact_us = () => {
                     </p>
                   </div>
                   {/*/column */}
-                  <div className="col-md-4">
+                  <div className="col-md-4 center-social">
                     {" "}
                     <span className="icon icon-color color-default fs-48 mb-10">
                       <a

@@ -515,6 +515,15 @@ figure.main.rounded img,
 .box.p-30 {
   padding: 40px 30px 6px 30px;
 }
+.fsocial-center {
+  text-align: center;
+}
+
+.center-social {
+  display: flex;
+  flex-direction: column;
+  align-items: center;
+}
 .collage-container {
   display: flex;
   justify-content: space-between;
@@ -540,6 +549,7 @@ figure.main.rounded img,
   }
 }
 .content {
+  min-width: 215px;
   display: flex;
   flex-direction: column;
   justify-content: space-evenly;
@@ -1153,6 +1163,7 @@ acronym[title] {
 .btn.btn-white.active {
   color: #7498ca;
 }
+
 .text-center .btn {
   margin-left: 5px;
   margin-right: 5px;
