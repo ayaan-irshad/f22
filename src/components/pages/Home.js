@@ -310,7 +310,11 @@ const Home = () => {
             <div className="space60" />
 
             <div className="collage-container">
-              <img className="collage" src="style/images/collage.jpeg" />
+              <img
+                className="collage"
+                src="style/images/collage.jpeg"
+                alt="f22 photography club"
+              />
               <div className="col-lg-6">
                 <p className="lead">
                   "f22 presents an oppurtunity for you to learn and apply skills
