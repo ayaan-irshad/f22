@@ -87,6 +87,7 @@ const Home = () => {
                     alt=""
                   />
                 </a>
+                <div className="logoText">f22 PHOTOGRAPHY CLUB</div>
               </div>
               <div className="navbar-hamburger ml-auto d-lg-none d-xl-none">
                 <button
@@ -97,9 +98,6 @@ const Home = () => {
                   <span />
                 </button>
               </div>
-            </div>
-            <div>
-              f22 PHOTOGRAPHY <br /> CLUB
             </div>
             {/* /.navbar-header */}
             <div className="navbar-collapse collapse justify-content-between align-items-center">

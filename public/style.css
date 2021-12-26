@@ -752,6 +752,21 @@ acronym[title] {
   padding-top: 0;
   padding-bottom: 0;
   margin: 0;
+  display: flex;
+  flex-direction: row;
+  align-items: center;
+}
+@media (max-width: 440px) {
+  .logoText {
+    font-size: 0.9rem;
+  }
+}
+@media (max-width: 768px) {
+  .navbar .navbar-brand {
+    width: 77%;
+    justify-content: space-between;
+    align-items: baseline;
+  }
 }
 .navbar address {
   font-size: 15px;
@@ -5613,6 +5628,7 @@ pre {
   .navbar .container .navbar-header,
   .navbar .container-fluid .navbar-header {
     max-width: 720px;
+    align-items: baseline;
   }
   .panel.pricing:not(.box) {
     border-left: 1px solid rgba(0, 0, 0, 0.1) !important;
