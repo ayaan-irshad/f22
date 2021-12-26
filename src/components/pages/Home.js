@@ -265,7 +265,7 @@ const Home = () => {
               {/* /column */}
               <div className="space30 d-block d-lg-none d-xl-none" />
               <div className="col-lg-6">
-                <p style={{ textAlign: "left" }} className="lead">
+                <p className="lead">
                   f22 was started as coming together of mentors and learners
                   with zeal to create, collaborate and grow together in
                   photographic adventures. A golden chance for all those who
@@ -504,15 +504,7 @@ const Home = () => {
                       <p>
                         Lorem ipsum dolor sit amet, consectetur adipiscing elit.
                         Pellentesque pulvinar id magna sed varius. Cras rhoncus
-                        orci vitae efficitur hendrerit. In feugiat ultrices
-                        massa vel faucibus. Proin feugiat odio purus, nec
-                        condimentum dolor efficitur pretium. Curabitur euismod
-                        magna in egestas mollis. Ut ut metus auctor, congue nunc
-                        eget, maximus eros. Phasellus at pretium augue. Maecenas
-                        volutpat accumsan rhoncus. Curabitur imperdiet ipsum
-                        metus, ut pellentesque erat posuere nec. Morbi at purus
-                        eu mi maximus faucibus. Aliquam ante augue, dapibus a
-                        semper ut, lacinia vel massa. Praesent fermentum ante
+                        orci vitae efficitur hendrerit. Praesent fermentum ante
                         sit amet est mollis ornare. Fusce quis ullamcorper Sed
                         venenatis turpis non risus vestibulum.
                       </p>
@@ -557,16 +549,7 @@ const Home = () => {
                     <div className="post-content">
                       <p>
                         Fusce quis ullamcorper Sed venenatis turpis non risus
-                        vestibulum, ulla ut tortor non justo luctus rhoncus. Sed
-                        varius congue tellus, sit amet sodales arcu aliquet
-                        quis. Duis dignissim, sapien quis tristique
-                        sollicitudin, justo nulla facilisis lorem, nec accumsan
-                        nulla lectus eget odio. Nunc vehicula ex et risus
-                        gravida fringilla et sit amet neque. Vivamus vulputate
-                        malesuada ipsum a pulvinar. Maecenas eget quam et diam
-                        semper mollis. Nunc tempus, odio quis tempus eleifend,
-                        lectus leo ultricies sapien, eget volutpat tellus urna
-                        ac ante. Aliquam aliquet porttitor libero et rhoncus.
+                        vestibulum, ulla ut tortor non justo luctus rhoncus.
                         Aliquam sed neque non eros porta maximus at et lorem. In
                         ultricies tempus magna, et varius quam lacinia ac.Nulla
                         vulputate elit non placerat elementum.
