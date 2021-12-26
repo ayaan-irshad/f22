@@ -312,8 +312,8 @@ const Home = () => {
                 <p className="lead">
                   f22 presents an oppurtunity for you to learn and apply skills
                   taught by our renowned mentors in 2022. This workshop will
-                  span 22 Sundays in the year. You can register by click on thre
-                  button below.
+                  span 22 Sundays in the year. You can register by clicking on
+                  the button below.
                 </p>
                 <a
                   className=" btn btn-l btn-white scroll"
