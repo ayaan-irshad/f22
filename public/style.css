@@ -765,7 +765,7 @@ acronym[title] {
   .navbar .navbar-brand {
     width: 77%;
     justify-content: space-between;
-    align-items: baseline;
+    /* align-items: baseline; */
   }
 }
 .navbar address {
@@ -5628,7 +5628,7 @@ pre {
   .navbar .container .navbar-header,
   .navbar .container-fluid .navbar-header {
     max-width: 720px;
-    align-items: baseline;
+    /* align-items: baseline; */
   }
   .panel.pricing:not(.box) {
     border-left: 1px solid rgba(0, 0, 0, 0.1) !important;

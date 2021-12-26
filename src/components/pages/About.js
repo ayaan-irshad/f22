@@ -69,6 +69,7 @@ const About = () => {
                     srcSet="style/images/junoon-black.png 1x, style/images/junoon-black.png 3x"
                     alt=""
                   />
+                  <div className="logoText">f22 PHOTOGRAPHY CLUB</div>
                 </div>
                 <div className="navbar-hamburger ml-auto d-lg-none d-xl-none">
                   <button
