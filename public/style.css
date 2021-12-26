@@ -561,10 +561,16 @@ figure.main.rounded img,
   justify-content: space-between;
 }
 
+@media (max-width: 992px) {
+  .rowCard {
+    max-width: 80%;
+  }
+}
 @media (max-width: 750px) {
   .rowCard {
     flex-direction: column;
     max-width: 100%;
+    align-items: center;
   }
 }
 hr {
