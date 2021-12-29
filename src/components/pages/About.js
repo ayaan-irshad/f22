@@ -153,7 +153,9 @@ const About = () => {
                     </div>
                     <div className="content">
                       <div>
-                        <h3>Vikar Syed, Mentor</h3>
+                        <h3>
+                          Vikar Syed, Mentor <br></br>and Founder
+                        </h3>
                       </div>
                       <p>
                         Lead Video Producer <br></br>at Free Press Kashmir
@@ -185,7 +187,7 @@ const About = () => {
                     </div>
                     <div className="content">
                       <div>
-                        <h3>Wani Umar, Admin</h3>
+                        <h3>Umer Wani, Admin</h3>
                       </div>
                       <p>
                         Freelance Photojournalist <br></br>Contact:
@@ -406,6 +408,11 @@ const About = () => {
                         target="_blank"
                       >
                         <i className="fa fa-instagram" />
+                      </a>
+                    </li>
+                    <li>
+                      <a href="https://twitter.com/f22_club/" target="_blank">
+                        <i className="fa fa-twitter" />
                       </a>
                     </li>
                   </ul>

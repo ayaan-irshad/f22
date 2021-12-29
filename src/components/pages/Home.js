@@ -150,6 +150,11 @@ const Home = () => {
                     <i className="fa fa-instagram" />
                   </a>
                 </li>
+                <li>
+                  <a href="https://twitter.com/f22_club/" target="_blank">
+                    <i className="fa fa-twitter" />
+                  </a>
+                </li>
               </ul>
             </div>
             {/*/.social-wrapper */}
@@ -317,10 +322,12 @@ const Home = () => {
               />
               <div className="col-lg-6">
                 <p className="lead">
-                  "f22 presents an oppurtunity for you to learn and apply skills
-                  taught by our renowned mentors in 2022. This workshop will
-                  span 22 Sundays in the year. You can register by clicking on
-                  the button below."
+                  "f22 Presents an Oppurtunity for you to Learn and Apply skills
+                  taught by our renowned Mentors in 2022. For this we are going
+                  to organize a Multi-Week Workshop Programme which will include
+                  Theory Classes based on our Syllabus and Photowalks.This
+                  Workshop will span 22 Sundays of 2022. You can register for
+                  this by sending your Portfolios on the button below."
                 </p>
                 <a
                   className=" btn btn-l btn-white scroll"
@@ -331,6 +338,36 @@ const Home = () => {
                 </a>
               </div>
             </div>
+            <div className="space60" />
+            {/* /ASSIGNMENT SUBMISSION */}
+            <h2 className="section-title mb-30 text-center">
+              SUBMIT WEEKLY ASSIGNMENT
+            </h2>
+            <div className="row d-flex align-items-center">
+              <div className="col-lg-6 pr-35 pr-sm-15">
+                <figure className="rounded">
+                  <img src="style/images/weekly.jpg" alt="" />
+                </figure>
+              </div>
+              {/* /column */}
+              <div className="space30 d-block d-lg-none d-xl-none" />
+              <div className="col-lg-6">
+                <p className="lead">
+                  “Current f22 students can submit their weekly assignments by
+                  clicking on the button below.”
+                </p>
+
+                <a
+                  className=" btn btn-l btn-white scroll"
+                  style={{ zIndex: 9 }}
+                  href="mailto: f22photographyclub@gmail.com"
+                >
+                  SUBMIT
+                </a>
+              </div>
+            </div>
+            {/* /ASSIGNMENT SUBMISSION */}
+
             <div className="space60" />
 
             <h2 className="section-title mb-30 text-center">Pic Of The Week</h2>
@@ -545,6 +582,11 @@ const Home = () => {
                       target="_blank"
                     >
                       <i className="fa fa-instagram" />
+                    </a>
+                  </li>
+                  <li>
+                    <a href="https://twitter.com/f22_club/" target="_blank">
+                      <i className="fa fa-twitter" />
                     </a>
                   </li>
                 </ul>

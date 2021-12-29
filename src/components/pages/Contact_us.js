@@ -150,6 +150,23 @@ const Contact_us = () => {
                       </a>
                     </p>
                   </div>
+                  <div className="col-md-4 center-social">
+                    {" "}
+                    <span className="icon icon-color color-default fs-48 mb-10">
+                      <a href="https://twitter.com/f22_club/" target="_blank">
+                        <i className="fa fa-twitter" />
+                      </a>
+                    </span>
+                    <p>
+                      <a
+                        className="nocolor"
+                        href="https://twitter.com/f22_club"
+                        target="_blank"
+                      >
+                        f22
+                      </a>
+                    </p>
+                  </div>
                   {/*/column */}
                   <div className="col-md-4 center-social">
                     {" "}
