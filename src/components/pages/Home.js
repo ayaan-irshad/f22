@@ -485,7 +485,7 @@ const Home = () => {
                           place"
                           <br></br>
                           <div className="space10" />
-                          by Wani Umar.
+                          by Wani Umer.
                         </h5>
                       </figcaption>
                     </figure>

@@ -187,7 +187,7 @@ const About = () => {
                     </div>
                     <div className="content">
                       <div>
-                        <h3>Umer Wani, Admin</h3>
+                        <h3>Wani Umer, Admin</h3>
                       </div>
                       <p>
                         Freelance Photojournalist <br></br>Contact:
