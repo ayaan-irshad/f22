@@ -824,6 +824,7 @@ acronym[title] {
 .nav-fill > .nav-item {
   text-align: center;
 }
+
 .navbar-nav .nav-link {
   font-size: 13px;
   letter-spacing: 1px;
@@ -834,9 +835,11 @@ acronym[title] {
   text-transform: uppercase;
 }
 .navbar.wide .navbar-nav .nav-link {
-  font-size: 17px;
-  letter-spacing: normal;
-  text-transform: none;
+  font-size: 1rem;
+  font-weight: 400;
+  text-transform: uppercase;
+  font-family: Verdana, Geneva, Tahoma, sans-serif;
+  letter-spacing: 3px;
 }
 .navbar.center:not(.fixed) .navbar-nav.plain .nav-link {
   padding-top: 0;
@@ -5497,7 +5500,7 @@ pre {
   }
   .navbar-nav,
   .nav-fill > .nav-item {
-    text-align: left !important;
+    /* text-align: left !important; */
   }
   .dropdown-item {
     padding-left: 0;
