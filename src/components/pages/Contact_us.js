@@ -44,7 +44,7 @@ const Contact_us = () => {
                   <img
                     intrinsicsize="1268x512"
                     src="#"
-                    srcSet="style/images/junoon-black.png 1x, style/images/junoon-black.png 3x"
+                    srcSet="style/images/junoon-black.avif 1x, style/images/junoon-black.avif 3x"
                     alt=""
                   />
                   <div className="logoText">f22 PHOTOGRAPHY CLUB</div>

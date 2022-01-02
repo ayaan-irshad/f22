@@ -16,7 +16,7 @@
 //                 <img
 //                   intrinsicsize="1268x512"
 //                   src='#'
-//                   srcSet='style/images/junoon-black.png 1x, style/images/junoon-black.png 3x'
+//                   srcSet='style/images/junoon-black.avif 1x, style/images/junoon-black.avif 3x'
 //                   alt=''
 //                 />
 
@@ -66,13 +66,10 @@
 
 //                 </li>
 
-
-
 //               </ul>
 //             </div>
 //           </div>
 //         </nav>
-
 
 // <div className="me">
 
@@ -84,7 +81,7 @@
 // </div>
 
 // <div className="hovercontainer1">
-  
+
 // <div className="wrapper">
 //   <a href="https://drive.google.com/drive/u/1/folders/1kCvchFn_Roo4s2M7fioHJAxTZt3HytST" className="mainText" target="_blank">
 //     <div className="card card12">
@@ -112,7 +109,7 @@
 //       <p className="headText">FDP 2021</p><hr className="headUnderline"></hr><i className="fal"><span className="jnlogo"></span></i></div>
 //       </a>
 //   </div>
-  
+
 //   <div className="wrapper">
 //   <a href="https://drive.google.com/drive/folders/1dY-dSI54Okm9n6cwopTjRt29bfS4Rd5h?usp=sharing" className="mainText" target="_blank">
 //     <div className="card card1">
@@ -151,10 +148,6 @@
 //       </a>
 //   </div>
 
- 
-
-
-  
 // </div>
 
 // <div className="yttitle">

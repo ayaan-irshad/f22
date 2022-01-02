@@ -83,7 +83,7 @@ const Home = () => {
                 <div className="navbar-brand">
                   <img
                     src="#"
-                    srcSet="style/images/junoon-white.png 1x, style/images/junoon-white.png 4x"
+                    srcSet="style/images/junoon-white.avif 1x, style/images/junoon-white.avif 4x"
                     alt=""
                   />
                   <div className="logoText">f22 PHOTOGRAPHY CLUB</div>
@@ -264,7 +264,7 @@ const Home = () => {
             <div className="row d-flex align-items-center">
               <div className="col-lg-6 pr-35 pr-sm-15">
                 <figure className="rounded">
-                  <img src="style/images/junoon-logo-only.png" alt="" />
+                  <img src="style/images/junoon-logo-only.avif" alt="" />
                 </figure>
               </div>
               {/* /column */}
@@ -560,7 +560,7 @@ const Home = () => {
               <div className="col-md-4 text-center footy">
                 <img
                   src="#"
-                  srcSet="style/images/junoon-white.png 1x, style/images/junoon-white.png 4x"
+                  srcSet="style/images/junoon-white.avif 1x, style/images/junoon-white.avif 4x"
                   alt=""
                 />
               </div>

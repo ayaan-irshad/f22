@@ -105,7 +105,7 @@ const Insta_gal = () => {
                     <img
                       intrinsicsize="1268x512"
                       src='#'
-                      srcSet='style/images/junoon-black.png 1x, style/images/junoon-black.png 3x'
+                      srcSet='style/images/junoon-black.avif 1x, style/images/junoon-black.avif 3x'
                       alt=''
                     />
                  
@@ -366,7 +366,7 @@ const Insta_gal = () => {
                 <div className='col-md-4 text-center footy'>
                   <img
                     src='#'
-                    srcSet='style/images/junoon-white.png 1x, style/images/junoon-white.png 4x'
+                    srcSet='style/images/junoon-white.avif 1x, style/images/junoon-white.avif 4x'
                     alt=''
                   />
                 </div>
@@ -426,7 +426,7 @@ const Insta_gal = () => {
                     <img
                       intrinsicsize="1268x512"
                       src='#'
-                      srcSet='style/images/junoon-black.png 1x, style/images/junoon-black.png 3x'
+                      srcSet='style/images/junoon-black.avif 1x, style/images/junoon-black.avif 3x'
                       alt=''
                     />
                  
@@ -687,7 +687,7 @@ const Insta_gal = () => {
                 <div className='col-md-4 text-center footy'>
                   <img
                     src='#'
-                    srcSet='style/images/junoon-white.png 1x, style/images/junoon-white.png 4x'
+                    srcSet='style/images/junoon-white.avif 1x, style/images/junoon-white.avif 4x'
                     alt=''
                   />
                 </div>
