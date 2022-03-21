@@ -167,14 +167,14 @@ const Home = () => {
             data-version="5.4.7"
           >
             <ul>
-              <li data-transition="fade" data-thumb="style/images/cover6.jpg">
-                <img src="style/images/cover6.jpg" alt="" />
+              <li data-transition="fade" data-thumb="style/images/cover1.jpg">
+                <img src="style/images/cover1.jpg" alt="" />
               </li>
-              <li data-transition="fade" data-thumb="style/images/cover5.jpeg">
-                <img src="style/images/cover5.jpeg" alt="" />
+              <li data-transition="fade" data-thumb="style/images/cover2.jpeg">
+                <img src="style/images/cover2.jpeg" alt="" />
               </li>
-              <li data-transition="fade" data-thumb="style/images/cover7.jpeg">
-                <img src="style/images/cover7.jpeg" alt="" />
+              <li data-transition="fade" data-thumb="style/images/cover3.jpeg">
+                <img src="style/images/cover3.jpeg" alt="" />
               </li>
               <li data-transition="fade" data-thumb="style/images/cover4.jpeg">
                 <img src="style/images/cover4.jpeg" alt="" />
