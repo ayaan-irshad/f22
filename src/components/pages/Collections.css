@@ -687,7 +687,7 @@
     }
   
   .jnlogo{
-    /* background-image: url("/public/style/images/junoon-logo-only.png"); */
+    /* background-image: url("/public/style/images/f22-logo-only.png"); */
     background-size: cover;
     position: absolute;
     width: 10px;
@@ -697,7 +697,7 @@
     
   
   .jnlogo{
-    background-image: url("./imgs/junoon-logo-only.png");
+    background-image: url("./imgs/f22-logo-only.png");
     background-size: cover;
     width: 50px;
     height: 50px;
@@ -1421,7 +1421,7 @@ background-blend-mode: multiply;
   
   
   .jnlogo{
-    /* background-image: url("/public/style/images/junoon-logo-only.png"); */
+    /* background-image: url("/public/style/images/f22-logo-only.png"); */
     background-size: cover;
     position: absolute;
     width: 10px;
@@ -1431,7 +1431,7 @@ background-blend-mode: multiply;
     
   
   .jnlogo{
-    background-image: url("./imgs/junoon-logo-only.png");
+    background-image: url("./imgs/f22-logo-only.png");
     background-size: cover;
     width: 50px;
     height: 50px;
@@ -2158,7 +2158,7 @@ background-color: rgba(0, 0, 0, 0.927);
   }
 
 .jnlogo{
-  /* background-image: url("/public/style/images/junoon-logo-only.png"); */
+  /* background-image: url("/public/style/images/f22-logo-only.png"); */
   background-size: cover;
   position: absolute;
   width: 10px;
@@ -2168,7 +2168,7 @@ background-color: rgba(0, 0, 0, 0.927);
   
 
 .jnlogo{
-  background-image: url("./imgs/junoon-logo-only.png");
+  background-image: url("./imgs/f22-logo-only.png");
   background-size: cover;
   width: 50px;
   height: 50px;

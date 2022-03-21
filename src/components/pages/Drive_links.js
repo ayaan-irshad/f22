@@ -16,7 +16,7 @@
 //                 <img
 //                   intrinsicsize="1268x512"
 //                   src='#'
-//                   srcSet='style/images/junoon-black.png 1x, style/images/junoon-black.png 3x'
+//                   srcSet='style/images/f22-black.png 1x, style/images/f22-black.png 3x'
 //                   alt=''
 //                 />
 
@@ -207,8 +207,8 @@
 //                 <img
 //                   src='#'
 //                   srcSet='
-//                   style/images/junoon-white.png    1x,
-//                   style/images/junoon-white.png 4x
+//                   style/images/f22-white.png    1x,
+//                   style/images/f22-white.png 4x
 //                 '
 //                   alt=''
 //                 />

@@ -83,7 +83,7 @@ const Home = () => {
                 <div className="navbar-brand">
                   <img
                     src="#"
-                    srcSet="style/images/junoon-white.png 1x, style/images/junoon-white.png 4x"
+                    srcSet="style/images/f22-white.png 1x, style/images/f22-white.png 4x"
                     alt=""
                   />
                   <div className="logoText">f22 PHOTOGRAPHY CLUB</div>
@@ -264,7 +264,7 @@ const Home = () => {
             <div className="row d-flex align-items-center">
               <div className="col-lg-6 pr-35 pr-sm-15">
                 <figure className="rounded">
-                  <img src="style/images/junoon-logo-only.png" alt="" />
+                  <img src="style/images/f22-logo-only.png" alt="" />
                 </figure>
               </div>
               {/* /column */}
@@ -375,7 +375,7 @@ const Home = () => {
               <div className="item col-md-6 col-lg-4">
                 <div className="box bg-inverse p-30">
                   <figure className="main mb-20 overlay overlay1 rounded">
-                    <img src="style/images/pic.jpg" alt="" />
+                    <img src="style/images/picoftheweek.jpg" alt="" />
                     <figcaption>
                       <h5 className="text-uppercase from-top mb-0">
                         "INTO THE MOUNTAINS" <br></br>
@@ -560,7 +560,7 @@ const Home = () => {
               <div className="col-md-4 text-center footy">
                 <img
                   src="#"
-                  srcSet="style/images/junoon-white.png 1x, style/images/junoon-white.png 4x"
+                  srcSet="style/images/f22-white.png 1x, style/images/f22-white.png 4x"
                   alt=""
                 />
               </div>
