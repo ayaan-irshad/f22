@@ -398,9 +398,9 @@ const Home = () => {
                       <img src="style/images/h1.jpg" alt="" />
                       <figcaption>
                         <h5 className="text-uppercase from-top mb-0">
-                          "Pangong, a story!" <br></br>
+                          "Look deep into Nature and find solace" <br></br>
                           <div className="space10" />
-                          by Abrar Farooq
+                          by Abrar
                         </h5>
                       </figcaption>
                     </figure>
