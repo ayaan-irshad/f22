@@ -365,7 +365,7 @@ const Home = () => {
 
             <div className="space60" />
 
-            <h2 className="section-title mb-30 text-center">Pic Of The Week</h2>
+            <h2 className="section-title mb-30 text-center">Pic Of The Month</h2>
             <div className="picofthe items row boxed grid-view text-center">
               <div className="item col-md-6 col-lg-4">
                 <div className="box bg-inverse p-30">
@@ -373,7 +373,7 @@ const Home = () => {
                     <img src="style/images/picoftheweek.jpg" alt="" />
                     <figcaption>
                       <h5 className="text-uppercase from-top mb-0">
-                        "INTO THE MOUNTAINS" <br></br>
+                        "Togetherness" <br></br>
                         <div className="space10" />
                         by Umar Farooq
                       </h5>
@@ -409,10 +409,9 @@ const Home = () => {
                       <img src="style/images/h2.jpg" alt="" />
                       <figcaption>
                         <h5 className="text-uppercase from-top mb-0">
-                          "Be At Peace With Your Own Soul, Then Heaven And Earth
-                          will Be At peace With You..."<br></br>
+                          "Pink City"<br></br>
                           <div className="space10" />
-                          by Amir Rafiq
+                          by Shuja Sultan
                         </h5>
                       </figcaption>
                     </figure>
@@ -426,9 +425,9 @@ const Home = () => {
                       <img src="style/images/h3.jpg" alt="" />
                       <figcaption>
                         <h5 className="text-uppercase from-top mb-0">
-                          "Choose only one Master— Nature." <br></br>
+                          "Faith in motion" <br></br>
                           <div className="space10" />
-                          by Sajad.
+                          by Umar Farooq.
                         </h5>
                       </figcaption>
                     </figure>
@@ -442,10 +441,9 @@ const Home = () => {
                       <img src="style/images/h4.jpg" alt="" />
                       <figcaption>
                         <h5 className="text-uppercase from-top mb-0">
-                          "Life is a succession of lessons which must be lived
-                          to be understood."<br></br>{" "}
+                          "Th wait continues"<br></br>{" "}
                           <div className="space10" />
-                          by Abrar Fayaz
+                          by Abrar
                         </h5>
                       </figcaption>
                     </figure>
@@ -459,9 +457,8 @@ const Home = () => {
                       <img src="style/images/h5.jpg" alt="" />
                       <figcaption>
                         <h5 className="text-uppercase from-top mb-0">
-                          "We are like butterflies who flutter for a day and
-                          think it is forever. -Carl Sagan"<br></br>
-                          <div className="space10" /> by Abrar Fayaz
+                          "Nature Trails"<br></br>
+                          <div className="space10" /> by Sajad
                         </h5>
                       </figcaption>
                     </figure>
@@ -475,12 +472,10 @@ const Home = () => {
                       <img src="style/images/h6.jpg" alt="" />
                       <figcaption>
                         <h5 className="text-uppercase from-top mb-0">
-                          "Can I stop the flow of time? Oh can I swim in your
-                          divine? Cause I don't I think I'd ever leave this
-                          place"
+                          "Commitments"
                           <br></br>
                           <div className="space10" />
-                          by Wani Umer.
+                          by Sofi Raziq Bashir.
                         </h5>
                       </figcaption>
                     </figure>
@@ -494,10 +489,10 @@ const Home = () => {
                       <img src="style/images/h7.jpg" alt="" />
                       <figcaption>
                         <h5 className="text-uppercase from-top mb-0">
-                          "I like this place and could waste my time there."
+                          "Colors of Spring"
                           <br></br>
                           <div className="space10" />
-                          by Basit
+                          by Ummer Manzoor
                         </h5>
                       </figcaption>
                     </figure>
@@ -511,8 +506,8 @@ const Home = () => {
                       <img src="style/images/h8.jpg" alt="" />
                       <figcaption>
                         <h5 className="text-uppercase from-top mb-0">
-                          "Nomads" <br></br>
-                          <div className="space10" /> by Wani Hanan
+                          "Memoires" <br></br>
+                          <div className="space10" /> by Umar Farooq
                         </h5>
                       </figcaption>
                     </figure>
@@ -526,7 +521,7 @@ const Home = () => {
                       <img src="style/images/h9.jpg" alt="" />
                       <figcaption>
                         <h5 className="text-uppercase from-top mb-0">
-                          "Old Age" <br></br> by Mohammad Shahid
+                          "Spring Blossom" <br></br> by M Syeed
                         </h5>
                       </figcaption>
                     </figure>
