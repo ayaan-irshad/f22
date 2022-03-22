@@ -322,12 +322,7 @@ const Home = () => {
               />
               <div className="col-lg-6">
                 <p className="lead">
-                  "f22 Presents an Oppurtunity for you to Learn and Apply skills
-                  taught by our renowned Mentors in 2022. For this we are going
-                  to organize a Multi-Week Workshop Programme which will include
-                  Theory Classes based on our Syllabus and Photowalks.This
-                  Workshop will span 22 Sundays of 2022. You can register for
-                  this by sending your Portfolios on the button below."
+                  "Few glimpses of our recent workshop in Wild Cumins Cafe Sopore where we were joined by a group of budding photographers from the valley."
                 </p>
                 <a
                   className=" btn btn-l btn-white scroll"
