@@ -441,7 +441,7 @@ const Home = () => {
                       <img src="style/images/h4.jpg" alt="" />
                       <figcaption>
                         <h5 className="text-uppercase from-top mb-0">
-                          "Th wait continues"<br></br>{" "}
+                          "The wait continues"<br></br>{" "}
                           <div className="space10" />
                           by Abrar
                         </h5>
