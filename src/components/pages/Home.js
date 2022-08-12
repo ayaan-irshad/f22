@@ -506,8 +506,8 @@ const Home = () => {
                       <img src="style/images/h8.jpg" alt="" />
                       <figcaption>
                         <h5 className="text-uppercase from-top mb-0">
-                          "Memoires" <br></br>
-                          <div className="space10" /> by Umar Farooq
+                          "We wear our scars" <br></br>
+                          <div className="space10" /> by Basit
                         </h5>
                       </figcaption>
                     </figure>
@@ -521,7 +521,7 @@ const Home = () => {
                       <img src="style/images/h9.jpg" alt="" />
                       <figcaption>
                         <h5 className="text-uppercase from-top mb-0">
-                          "Spring Blossom" <br></br> by M Syeed
+                          "Legacy" <br></br> by Ummer Manzoor
                         </h5>
                       </figcaption>
                     </figure>
