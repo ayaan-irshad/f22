@@ -472,7 +472,7 @@ const Home = () => {
                       <img src="style/images/h6.jpg" alt="" />
                       <figcaption>
                         <h5 className="text-uppercase from-top mb-0">
-                          "Commited to Hussain AS"
+                          "Committed to Hussain AS"
                           <br></br>
                           <div className="space10" />
                           by Umar Farooq
@@ -489,7 +489,7 @@ const Home = () => {
                       <img src="style/images/h7.jpg" alt="" />
                       <figcaption>
                         <h5 className="text-uppercase from-top mb-0">
-                          "Colors of Spring"
+                          "New and Young"
                           <br></br>
                           <div className="space10" />
                           by Ummer Manzoor
