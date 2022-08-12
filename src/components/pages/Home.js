@@ -384,7 +384,7 @@ const Home = () => {
             </div>
 
             <div className="space60" id="portfolio" />
-            <h2 className="section-title mb-30 text-center">Our Craft</h2>
+            <h2 className="section-title mb-30 text-center">Muharram 1444H</h2>
             <div className="tiles">
               <div className="items row boxed grid-view text-center">
                 <div className="item col-md-6 col-lg-4">
@@ -457,8 +457,8 @@ const Home = () => {
                       <img src="style/images/h5.jpg" alt="" />
                       <figcaption>
                         <h5 className="text-uppercase from-top mb-0">
-                          "Nature Trails"<br></br>
-                          <div className="space10" /> by Sajad
+                          "Wailing"<br></br>
+                          <div className="space10" /> by Basit
                         </h5>
                       </figcaption>
                     </figure>
@@ -472,10 +472,10 @@ const Home = () => {
                       <img src="style/images/h6.jpg" alt="" />
                       <figcaption>
                         <h5 className="text-uppercase from-top mb-0">
-                          "Commitments"
+                          "Commited to Hussain AS"
                           <br></br>
                           <div className="space10" />
-                          by Sofi Raziq Bashir.
+                          by Umar Farooq
                         </h5>
                       </figcaption>
                     </figure>
