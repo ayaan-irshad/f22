@@ -393,9 +393,9 @@ const Home = () => {
                       <img src="style/images/h1.jpg" alt="" />
                       <figcaption>
                         <h5 className="text-uppercase from-top mb-0">
-                          "Look deep into Nature and find solace" <br></br>
+                          "Despair" <br></br>
                           <div className="space10" />
-                          by Abrar
+                          by Basit
                         </h5>
                       </figcaption>
                     </figure>
@@ -409,9 +409,9 @@ const Home = () => {
                       <img src="style/images/h2.jpg" alt="" />
                       <figcaption>
                         <h5 className="text-uppercase from-top mb-0">
-                          "Pink City"<br></br>
+                          "Caravan"<br></br>
                           <div className="space10" />
-                          by Shuja Sultan
+                          by Umar Farooq
                         </h5>
                       </figcaption>
                     </figure>
@@ -425,9 +425,9 @@ const Home = () => {
                       <img src="style/images/h3.jpg" alt="" />
                       <figcaption>
                         <h5 className="text-uppercase from-top mb-0">
-                          "Faith in motion" <br></br>
+                          "Stand Out" <br></br>
                           <div className="space10" />
-                          by Umar Farooq.
+                          by M Syeed
                         </h5>
                       </figcaption>
                     </figure>
@@ -441,9 +441,9 @@ const Home = () => {
                       <img src="style/images/h4.jpg" alt="" />
                       <figcaption>
                         <h5 className="text-uppercase from-top mb-0">
-                          "The wait continues"<br></br>{" "}
+                          "Roots"<br></br>{" "}
                           <div className="space10" />
-                          by Abrar
+                          by Umar Farooq
                         </h5>
                       </figcaption>
                     </figure>
